@@ -14,10 +14,6 @@ I'm currently learning Kubernetes to improve my containerization skills. I'm als
 
 I'm looking to collaborate on open-source projects related to cloud computing, DevOps, and infrastructure as code. 
 
-## How to reach me 📫
-
-You can reach me on LinkedIn or Twitter. I'm always happy to connect with like-minded professionals.
-
 ## Fun fact ⚡
 
-I'm an avid hiker and have climbed several mountains around the world, including Mount Fuji when I used to live in Japan.
+I'm an avid hiker and have climbed several mountains around the world, including Mt Fuji (twice, in complete disregard of the adage) when I used to live in Japan.
